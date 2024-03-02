@@ -6,6 +6,9 @@
  
  **Payment:** Basic payment management system, which enables developer to integrate with various payment providers easily, and give a view to admin where he can manage payments.
 
+ ** Admin Panel: **
+   - Content Management System that allows user to CRUD on models.
+   - User Management
  
  
  ## Technical Features 
