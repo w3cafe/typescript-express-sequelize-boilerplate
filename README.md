@@ -21,7 +21,27 @@
 
 
  
+
+
+ ## Framework Choice
+
+
  
+| AdonisJS | NestJS |
+|--|--|
+|  ✅ Mail System |  |
+| ✅ ORM||
+| ✅ DB Migration||
+| ✅ DB Seeding||
+| ✅ Social Auth||
+| ✅ JWT/Cookie AUth||
+| ✅ Mail Utility||
+| ✅ ACL (Bouncer)||
+| ✅ Drive (S3 etc SDK)||
+| ✅ Rate Limiting||
+| ✅ HTTP Template Engine||
+| ✅ CLI||
+
 
 
 ## Motivation
